@@ -1,0 +1,1 @@
+This repository contains a selection of Python functions, primarily from LeetCode challenges and other exercises, designed to showcase my problem-solving skills and proficiency in Python.
